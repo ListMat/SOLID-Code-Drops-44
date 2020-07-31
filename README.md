@@ -10,7 +10,7 @@
 
 
 # Releases!
- https://www.youtube.com/watch?v=vAV4Vy4jfkc&t=426s
+ https://www.linkedin.com/posts/mateus-henrique-6338b4196_muito-se-ouve-falar-sobre-arquitetura-princ%C3%ADpios-activity-6695017243601850368-iO7C
  
 # Instalação
 
